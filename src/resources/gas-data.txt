@@ -1,0 +1,357 @@
+December 14, 2016
+$21.06
+9.160 gal
+291.4 miles
+
+December 21, 2016
+$23.20
+9.671 gal
+277.5 miles
+
+December 30, 2016
+$24.58
+10.248 gal
+304.7 miles
+
+January 11, 2017
+$22.95
+9.730 gal
+277.2 miles
+
+January 23, 2017
+$8.21
+3.480 gal
+276.1 miles
+NOT FULL
+
+January 27, 2017
+$20.00
+8.933 gal
+131.4 miles
+NOT FULL
+
+February 4, 2017
+$20.00
+9.095 gal
+255.3 miles
+NOT FULL
+
+February 11, 2017
+$20.00
+9.095 gal
+216.5 miles
+
+February 21, 2017
+$20.00
+8.624 gal
+314.8 miles
+NOT FULL
+
+March 1, 2017
+$20.00
+9.095 gal
+263.0 miles
+NOT FULL
+
+March 8, 2017
+$18.75
+8.723 gal
+232.2 miles
+
+March 15, 2017
+$20.00
+9.305 gal
+289.9 miles
+NOT FULL
+
+March 23, 2017
+$20.00
+9.307 gal
+283.8 miles
+
+April 2, 2017
+$20.00
+8.972 gal
+268.3 miles
+NOT FULL
+
+April 10, 2017
+$20.00
+8.854 gal
+297.6 miles
+NOT FULL
+
+April 21, 2017
+$20.00
+9.013 gal
+324.2 miles
+NOT FULL
+
+May 1, 2017
+$20.00
+9.013 gal
+285.6 miles
+
+May 8, 2017
+$20.00
+9.013 gal
+303.6 miles
+
+May 15, 2017
+$20.00
+9.013 gal
+321.2 miles
+NOT FULL
+
+May 25, 2017
+$19.20
+8.729 gal
+292.0 miles
+
+June 6, 2017
+$21.50
+8.743 gal
+300.7 miles
+
+June 14, 2017
+$18.50
+8.413 gal
+304.1 miles
+
+June 29, 2017
+$20.00
+9.095 gal
+361.0 miles
+NOT FULL
+
+July 10, 2017
+$18.80
+8.872 gal
+294.1 miles
+
+July 19, 2017
+$20.00
+9.438 gal
+349.6 miles
+NOT FULL
+
+July 26, 2017
+$19.60
+9.120 gal
+305.4 miles
+
+August 11, 2017
+$20.00
+8.699 gal
+346.4 miles
+
+August 26, 2017
+$20.00
+8.337 gal
+313.2 miles
+
+September 2, 2017
+$20.00
+7.411 gal
+286.3 miles
+
+September 8, 2017
+$20.00
+7.465 gal
+253.6 miles
+NOT FULL
+
+September 10, 2017
+$20.00
+7.302 gal
+244.1 miles
+NOT FULL
+
+September 16, 2017
+$20.00
+7.465 gal
+292.3 miles
+NOT FULL
+
+September 23, 2017
+$20.00
+7.465 gal
+279.0 miles
+NOT FULL
+
+
+September 26, 2017
+$10.00
+3.848 gal
+158.3 miles
+NOT FULL
+
+October 4, 2017
+$20.00
+7.795 gal
+186.0 miles
+NOT FULL 
+
+October 11, 2017
+$19.06
+7.628 gal
+212.4 miles
+
+October 24, 2017
+$20.00
+7.908 gal
+331.8 miles
+NOT FULL
+
+October 28, 2017
+$20.00
+8.003 gal
+253.6 miles
+NOT FULL
+
+November 4, 2017
+$20.00
+8.003 gal
+213.8 miles
+NOT FULL
+
+November 12, 2017
+$20.00
+8.003 gal
+320.1 miles
+NOT FULL 
+
+November 18, 2017
+$20.00
+8.003 gal
+207.9 miles
+NOT FULL
+
+November 25, 2017
+$20.00
+8.003 gal
+277.4 miles
+NOT FULL
+
+December 3, 2017
+$20.00
+8.003 gal
+208.3 miles
+NOT FULL
+
+December 12, 2017
+$19.50
+7.802 gal
+238.9 miles
+
+December 17, 2017
+$19.70
+7.727 gal
+215.2 miles
+
+December 27, 2017
+$20.00
+8.003 gal
+300.1 miles
+NOT FULL
+
+January 6, 2018
+$20.00
+8.003 gal
+201.5 miles
+NOT FULL
+
+January 18, 2018
+$20.00
+8.068 gal
+274.6 miles
+NOT FULL
+
+January 25, 2018
+$10.00
+3.923 gal
+232.3 miles
+NOT FULL
+
+February 1, 2018
+$10.00
+3.923 gal
+120.3 miles
+NOT FULL
+
+February 3, 2018
+$18.55
+7.421 gal
+65.4 miles
+
+February 8, 2018
+$20.00
+8.003 gal
+274.7 miles
+NOT FULL
+
+February 15, 2018
+$20.00
+8.003 gal
+194.7 miles
+NOT FULL
+
+February 24, 2018
+$20.00
+8.003 gal
+299.5 miles
+NOT FULL
+
+February 28, 2018
+$20.00
+8.003 gal
+234.6 miles
+NOT FULL
+
+March 6, 2018
+$20.00
+8.003 gal
+288.0 miles
+NOT FULL
+
+March 12, 2018
+$10.00
+4.066 gal
+143.1 miles
+NOT FULL
+
+March 20, 2018
+$20.00
+8.003 gal
+207.8 miles
+NOT FULL
+
+March 25, 2018
+$20.00
+7.816 gal
+255.1 miles
+NOT FULL
+
+March 31, 2018
+$20.00
+7.816 gal
+222.6 miles
+NOT FULL
+
+April 13, 2018
+$10.00
+3.760 gal
+251.9 miles
+NOT FULL
+
+April 13, 2018
+$10.00
+4.002 gal
+106.2 miles
+NOT FULL
+
+April 21, 2018
+$10.00
+4.848 gal
+134.7 miles
+NOT FULL
